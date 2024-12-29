@@ -1,0 +1,4 @@
+
+# External dependencies
+requests
+beautifulsoup4
